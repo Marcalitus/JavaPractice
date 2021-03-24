@@ -20,6 +20,37 @@ public class controlledbrowsing {
 		this.topic = topic;
 		
 	}
+	
+	//update
+	for (int = 0; i < node.children.size(), i++ 
+	{controlledbrowsing iter=node.children.get(i);
+		for (ubt l = 1; l <=space; l++)
+		system.out.print(" " );
+		
+		System.out.println("Update? " + iter.data + " " + iter.anme + " if yes " + s = sc.nextInt();
+		)
+	
+		int id = sc.nextInt();
+		String nodename = sc.next();
+		iter.data = id;
+		iter.name = codename;
+		System.out.println(iter.data+ " " + iter.name);
+	}
+	else if (s == 2 ) {
+
+
+
+	}
+	
+	}
+	//////
+	}
+//	
+	
+	
+	
+	system.out.println("Up")
+	
 	public controlledbrowsing addChild(controllledbrowsing)
 	children.add(node);
 	node.parent = this; 
@@ -48,8 +79,8 @@ public class controlledbrowsing {
 	}
 	}
 	
-	public static void browse 
-	
+
+
 	
 	
 	public static void main(String[] args) {
